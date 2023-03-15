@@ -6,6 +6,6 @@
 
 
 # Welcome to my Github page! 👋
-<h2>I am a student at [![BloomTech](https://img.shields.io/badge/-BloomTech-orange)](https://www.bloomtech.com/), doing the Full-stack Web Developer course, I hope to be able to share my knowledge with others and learn from them, collaborating .</h2>
+I am a student at [![BloomTech](https://img.shields.io/badge/-BloomTech-orange)](https://www.bloomtech.com/), doing the Full-stack Web Developer course, I hope to be able to share my knowledge with others and learn from them, collaborating .
 
 

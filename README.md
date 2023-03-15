@@ -3,6 +3,7 @@
 
 
 
-Welcome to my Github page! I am a student at Bloomtech, doing the Full-stack Web Developer course, I hope to be able to share my knowledge with others and learn from them, collaborating .
+# Welcome to my Github page! 👋
+I am a student at Bloomtech, doing the Full-stack Web Developer course, I hope to be able to share my knowledge with others and learn from them, collaborating .
 
 

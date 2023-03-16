@@ -9,3 +9,4 @@
 I am a student at [![BloomTech](https://img.shields.io/badge/-BloomTech-orange)](https://www.bloomtech.com/), doing the Full-stack Web Developer course, I hope to be able to share my knowledge with others and learn from them, collaborating .
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alehussein)](https://github.com/anuraghazra/github-readme-stats)

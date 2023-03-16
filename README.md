@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alejandrohussein1@gmail.com)
 
 
-
+<img align="right" alt="img" src="./alejandro.jpeg" width="50%" height="auto" />
 
 # Welcome to my Github page! 👋
 I am a student at [![BloomTech](https://img.shields.io/badge/-BloomTech-orange)](https://www.bloomtech.com/), doing the Full-stack Web Developer course, I hope to be able to share my knowledge with others and learn from them, collaborating .

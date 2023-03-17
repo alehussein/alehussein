@@ -26,6 +26,8 @@ I am a student at [![BloomTech](https://img.shields.io/badge/-BloomTech-orange)]
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alehussein&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alehussein)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

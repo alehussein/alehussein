@@ -18,6 +18,9 @@ I am a graduate at [![BloomTech](https://img.shields.io/badge/-BloomTech-orange)
 	<code><a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img height="30" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress" /></a></code>
 	<code><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img height="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></a></code>
         <code><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="Type Script" width="40" height="40" style="max-width: 100%;"/></a></code>
+	<br>
+	<a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="max-width: 100%;"> </a>
+ <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
 
 </div>
 

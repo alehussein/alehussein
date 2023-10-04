@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=alehussein)
 [![Twitter](https://img.shields.io/twitter/follow/alehusseinL?label=follow%20%40Alejandro&style=social)](https://twitter.com/intent/follow?screen_name=alehusseinL)
 #
-<img align="right" alt="img" src="./IMG_3296.jpeg" width="40%" height="auto"/>
+
 
 # Hello and welcome to my corner on GitHub! 👋
 
